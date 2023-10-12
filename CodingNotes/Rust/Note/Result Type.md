@@ -1,0 +1,1 @@
+Result type consists of a "data type" and an "error type". 

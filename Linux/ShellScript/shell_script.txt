@@ -1,0 +1,2 @@
+# Echo what bash I am using
+echo $0

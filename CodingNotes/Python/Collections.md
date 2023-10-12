@@ -1,0 +1,3 @@
+- `Counter`: returns a dictionary of counts
+	- `most_common(k)`: this function returns a list of k elements that are most common among the elements in the list. 
+ - `defaultdict(list)`: create a default dictionary of lists

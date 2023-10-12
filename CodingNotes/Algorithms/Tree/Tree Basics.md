@@ -1,0 +1,3 @@
+- Full binary tree: Nodes of a tree have zero or two children
+- Complete binary tree: All levels are completed and the last level nodes are filled from left to right
+- Perfect binary tree

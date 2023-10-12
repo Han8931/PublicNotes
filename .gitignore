@@ -1,0 +1,15 @@
+Codeforces/
+materials/
+algorithm_practice/
+Python_Tips/
+.obsidian/
+
+Drill_dirs/
+after/runs/
+before/runs/
+*.pyc
+**/.DS_Store
+data/
+
+*.svg
+*.gz
